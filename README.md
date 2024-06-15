@@ -1,5 +1,5 @@
-### ¡Hola a todos! Mi nombre es Jorge - aka [Chochy][Facebook] 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+### ¡Hola a todos! Mi nombre es Alan - aka [Chochy][Fa<cebook] 👋
+[![Alamitosis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alamitosis)](https://github.com/Alamitosis/github-readme-stats)
 ## Soy estudiante, Profesor y desarrollador de Software
 
 - Estos son algunos de mis cursos:

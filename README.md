@@ -1,6 +1,6 @@
-### ¡Hola a todos! Mi nombre es Alan - aka Alamitosis 👋
+### ¡Hola a todos! Mi nombre es Alan - aka Alamitosis para los amigos 👋
 [![Alamitosis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alamitosis)](https://github.com/Alamitosis/github-readme-stats)
-## Soy estudiante, Profesor y desarrollador de Software
+## Soy Ingeniero electrónico con pasión por el desarrollo de software y firmware.
 
 - Estos son algunos de mis cursos:
 - 👉[Curso de C](https://www.udemy.com/course/programacion_en_c_desde_cero_a_experto/?referralCode=D0CF1FABF59B2D29079B)[<img align="left" alt="CursoC" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />][cursoC]!

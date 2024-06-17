@@ -1,4 +1,4 @@
-### ¡Hola a todos! Mi nombre es Alan - aka [Chochy][Fa<cebook] 👋
+### ¡Hola a todos! Mi nombre es Alan - aka Alamitosis 👋
 [![Alamitosis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alamitosis)](https://github.com/Alamitosis/github-readme-stats)
 ## Soy estudiante, Profesor y desarrollador de Software
 

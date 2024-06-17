@@ -46,8 +46,6 @@ __Diseño:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
-- [Cómo usar la diadema Emotiv EPOC+](https://www.youtube.com/watch?v=-DJtX0lkLI4&t=54s)
-- [Control de prótesis usando la mente](https://www.youtube.com/watch?v=1jHkYTnmzxQ)
 <!-- YOUTUBE:END -->
     
 </details>

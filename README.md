@@ -40,10 +40,6 @@ __Diseño:__
 
 ---
 
----
-
-
-
 
 ## 📺 Últimos vídeos de YouTube
 <details>
@@ -54,13 +50,6 @@ __Diseño:__
 - [Control de prótesis usando la mente](https://www.youtube.com/watch?v=1jHkYTnmzxQ)
 <!-- YOUTUBE:END -->
     
-</details>
-
-## ❗️ Actividad Reciente
-<details>
-    <summary>❗️ Ver</summary>
-    
-
 </details>
 
 

@@ -1,6 +1,9 @@
-### ¡Hola a todos! Mi nombre es Alan - aka Alamitosis para los amigos 👋
+### ¡Hola a todos! Mi nombre es Alan - aka Alamitosis para los amigos 👋 y estas son mis estadísticas de actividad en tiempo real.
 [![Alamitosis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alamitosis)](https://github.com/Alamitosis/github-readme-stats)
-## Soy Ingeniero electrónico con pasión por el desarrollo de software y firmware.
+
+## Soy Ingeniero electrónico con pasión por el desarrollo de software y firmware. Actualmente estoy estudiando ciencia de datos como Hobbie.
+
+## Estoy abierto a ofertas de empleo.
 
 ### Contactame si tienes alguna duda con el software!:
 

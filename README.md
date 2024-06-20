@@ -14,9 +14,7 @@ __Generales:__
 <br />
 <img align="bottom" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="30" height="30" />
 <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" width="30" height="30" />
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/go/go-original.svg" width="30" height="30" />
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="30" height="30"/>
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/debian/debian-original.svg" width="30" height="30" />
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" width="30" height="30"/>
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="30" height="30"/>
 <br />
@@ -25,9 +23,10 @@ __Generales:__
 __Lenguajes de programación:__
 <br />
 <img align="bottom" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="30" height="30" />
-<img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" width="30" height="30" />
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/swift/swift-original.svg" width="30" height="30" />
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/kotlin/kotlin-original.svg" width="30" height="30" />
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="30" height="30" />
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/embeddedc/embeddedc-plain.svg" width="30" height="30" />
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30" height="30" />
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" width="30" height="30" />
 <br />
 
 ---
@@ -51,8 +50,6 @@ __Diseño:__
 </details>
 
 
-[website]: https://capdesis.com/
 [youtube]: https://www.youtube.com/channel/UCsPZY2ryjlMypc-woTZfnTw
-[linkedin]: www.linkedin.com/in/alan-oswaldo-huerta-becerra-58b740277
-
+[linkedin]: www.linkedin.com/in/alan-huertab
 
